@@ -1,9 +1,7 @@
-👋 Hi, I’m @cyril-hhf
-⚙️ I’m interested in data analytics automation, ETL pipeline design, and multi-dimensional market segmentation.
-🧠 I’m currently honing my skills in advanced data modeling, DAX architecture, and Python-driven workflow optimization.
-📫 How to reach me: cyrilhhf@gmail.com
+# 👋 Hello World, I'm Cyril Ho
 
-<!---
-cyril-hhf/cyril-hhf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Data Analyst | Automation Enthusiast**
+
+* 👀 **Interests:** Business Intelligence, Automated Data Pipelines, Macroeconomic & Sales Efficacy Tracking.
+* 🌱 **Current Tech Stack Focus:** Python, SQL, Power BI (Advanced DAX & Star Schema Modeling), and Excel Data Modeling.
+* 📫 **Connect with me:** cyrilhhf@gmail.com
